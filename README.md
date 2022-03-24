@@ -1,0 +1,1 @@
+# UmojaHack-Africa-2022-Monthly-Insurance-Claim-Prediction-Challenge
